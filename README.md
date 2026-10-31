@@ -2,7 +2,7 @@
 
 <div align="right">
 
-`Gemini 4 Argon` • `ADK` • `MCP` • `GKE` • `Compute Engine` • `FastTrack3D` • `Field AI`
+`Gemini 4 Argon` • `ADK` • `MCP` • `Antigravity` • `GKE` • `Compute Engine` • `FastTrack3D` • `Field AI`
 
 </div>
 
@@ -30,7 +30,7 @@ The core engine utilizes a 5-agent architecture deployed on **Gemini 4 Argon**:
 
 ## 🛠️ Stack & Infrastructure Components
 - **Frontier Reasoning Model:** Gemini 4 Argon
-- **Agent Orchestration Framework:** Agent Development Kit (ADK)
+- **Agent Orchestration Framework:** Agent Development Kit (ADK) & Google Antigravity Agent Engine
 - **Protocol & Data Schema:** Model Context Protocol (MCP)
 - **Cloud Infrastructure & Containers:** Google Kubernetes Engine (GKE) & Compute Engine
 - **Spatial Grid & Edge Intelligence:** FastTrack3D Engine & Field AI Telemetry Engine
