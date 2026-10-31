@@ -1,5 +1,11 @@
 # 🎈 Party Vibe Multi-Agent
 
+<div align="right">
+
+`Gemini 4 Argon` • `ADK` • `MCP` • `GKE` • `Compute Engine` • `FastTrack3D` • `Field AI`
+
+</div>
+
 > **Enterprise GenAI Celebration & Event Planning Assistant**  
 > **Powered by AiShifa** | Architected by **Arshia Nousheen** *(Certified Multi-Agent Developer | Founder & CEO, AiShifa Sovereign Cloud AI)*
 
@@ -12,13 +18,22 @@
 
 ## 🤖 5-Agent Gemini System Architecture
 
-The core engine utilizes a 5-agent architecture deployed on **Gemini 2.5 Pro** (`gemini-2.5-pro`):
+The core engine utilizes a 5-agent architecture deployed on **Gemini 4 Argon**:
 
 1. **Master Orchestrator Agent:** Parses user constraints, coordinates sub-agent workflows, and validates output accuracy.
 2. **Creative Experience Sub-Agent:** Generates bespoke themes, aesthetic palettes, personalized guest engagement concepts, and program highlights.
 3. **Financial & Timeline Sub-Agent:** Enforces a deterministic 100% budget allocation and builds pre-event milestones (T-90, T-30, T-7) down to a day-of run-of-show schedule.
 4. **Vendor Operations Sub-Agent:** Compiles categorized vendor action items, RFP questions, and priority checklists.
 5. **Spatial & Venue Layout Sub-Agent:** Generates seating guidelines, stage placement, and decor layout structures.
+
+---
+
+## 🛠️ Stack & Infrastructure Components
+- **Frontier Reasoning Model:** Gemini 4 Argon
+- **Agent Orchestration Framework:** Agent Development Kit (ADK)
+- **Protocol & Data Schema:** Model Context Protocol (MCP)
+- **Cloud Infrastructure & Containers:** Google Kubernetes Engine (GKE) & Compute Engine
+- **Spatial Grid & Edge Intelligence:** FastTrack3D Engine & Field AI Telemetry Engine
 
 ---
 
@@ -30,14 +45,5 @@ The core engine utilizes a 5-agent architecture deployed on **Gemini 2.5 Pro** (
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ or Python 3.10+
-- Gemini API Key (Google AI Studio)
-
-### Environment Setup
-Create a `.env` file in the root directory:
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-2.5-pro
+## 📜 License
+Licensed under the Apache 2.0 License.
