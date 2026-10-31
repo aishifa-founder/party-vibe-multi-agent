@@ -1,4 +1,3 @@
-
 # 🎈 Party Vibe Multi-Agent
 
 > **Enterprise GenAI Celebration & Event Planning Assistant**  
@@ -7,7 +6,7 @@
 ---
 
 ## 📌 Problem Statement Solved
-**Celebration & Event Planner:** A GenAI-powered planning assistant that helps users organize weddings, birthdays, and community events with itemized budgets, phase-by-phase timelines, vendor checklists, and personalized ideas[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span).
+**Celebration & Event Planner:** A GenAI-powered planning assistant that helps users organize weddings, birthdays, and community events with itemized budgets, phase-by-phase timelines, vendor checklists, and personalized ideas.
 
 ---
 
@@ -16,9 +15,9 @@
 The core engine utilizes a 5-agent architecture deployed on **Gemini 2.5 Pro** (`gemini-2.5-pro`):
 
 1. **Master Orchestrator Agent:** Parses user constraints, coordinates sub-agent workflows, and validates output accuracy.
-2. **Creative Experience Sub-Agent:** Generates bespoke themes, aesthetic palettes, personalized guest engagement concepts, and program highlights[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).
-3. **Financial & Timeline Sub-Agent:** Enforces a deterministic 100% budget allocation and builds pre-event milestones (T-90, T-30, T-7) down to a day-of run-of-show schedule[span_4](start_span)[span_4](end_span)[span_5](start_span)[span_5](end_span).
-4. **Vendor Operations Sub-Agent:** Compiles categorized vendor action items, RFP questions, and priority checklists[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span).
+2. **Creative Experience Sub-Agent:** Generates bespoke themes, aesthetic palettes, personalized guest engagement concepts, and program highlights.
+3. **Financial & Timeline Sub-Agent:** Enforces a deterministic 100% budget allocation and builds pre-event milestones (T-90, T-30, T-7) down to a day-of run-of-show schedule.
+4. **Vendor Operations Sub-Agent:** Compiles categorized vendor action items, RFP questions, and priority checklists.
 5. **Spatial & Venue Layout Sub-Agent:** Generates seating guidelines, stage placement, and decor layout structures.
 
 ---
